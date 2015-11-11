@@ -90,7 +90,7 @@
 
 
   <properties>
-    <project.scm.id>git-duck<project.scm.id>
+    <project.scm.id>git-duck</project.scm.id>
   </properties>
     
       <!-- Still needs work -->
