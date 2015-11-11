@@ -89,6 +89,10 @@
 
 
 
+  <properties>
+    <project.scm.id>git-duck<project.scm.id>
+  </properties>
+    
       <!-- Still needs work -->
   <scm>
     <connection>scm:git:git@github.com:PuZZleDucK/Pom-Pom.git</connection>
