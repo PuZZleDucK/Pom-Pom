@@ -3,7 +3,7 @@
   <groupId>org.puzzleduck</groupId>
   <artifactId>pom-pom</artifactId>
   <packaging>jar</packaging>
-  <version>0.4</version>
+  <version>0.4-SNAPSHOT</version>
   <name>pom-pom</name>
 <!--
       <p>Project Group: ${project.groupId}</p>
