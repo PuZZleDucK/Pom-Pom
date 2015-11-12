@@ -97,7 +97,6 @@
   <scm>
     <connection>scm:git:https://github.com/PuZZleDucK/Pom-Pom.git</connection>
     <developerConnection>scm:git:https://github.com/PuZZleDucK/Pom-Pom.git
-    <tag>pom-pom-0.5</tag>
     <url>https://github.com/PuZZleDucK/Pom-Pom.git</url>
   </scm>
 
