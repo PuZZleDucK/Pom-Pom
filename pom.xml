@@ -96,7 +96,7 @@
       <!-- Still needs work -->
   <scm>
     <connection>scm:git:https://github.com/PuZZleDucK/Pom-Pom.git</connection>
-    <developerConnection>scm:git:https://github.com/PuZZleDucK/Pom-Pom.git
+    <developerConnection>scm:git:https://github.com/PuZZleDucK/Pom-Pom.git</developerConnection>
     <url>https://github.com/PuZZleDucK/Pom-Pom.git</url>
   </scm>
 
