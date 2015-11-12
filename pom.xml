@@ -3,7 +3,7 @@
   <groupId>org.puzzleduck</groupId>
   <artifactId>pom-pom</artifactId>
   <packaging>jar</packaging>
-  <version>0.7</version>
+  <version>0.8-SNAPSHOT</version>
   <name>pom-pom</name>
 <!--
       <p>Project Group: ${project.groupId}</p>
@@ -98,7 +98,7 @@
     <connection>scm:git:https://github.com/PuZZleDucK/Pom-Pom.git</connection>
     <developerConnection>scm:git:https://github.com/PuZZleDucK/Pom-Pom.git</developerConnection>
     <url>https://github.com/PuZZleDucK/Pom-Pom.git</url>
-    <tag>pom-pom-0.7</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
